@@ -1,0 +1,50 @@
+body {
+  background-color: white;
+  padding: 30px;
+}
+
+h1, p,img
+{color:black;
+  text-align: left;
+}
+
+h4 {
+	margin-top: 0;
+}
+
+#aboutze 
+
+#profilepic { float: left;
+margin-right: 20px;
+}
+#whoami{
+background-color:whitesmoke
+}
+#hobbies{
+background-color:white;
+}
+#language{
+background-color:cornsilk;
+}
+
+#music{
+background-color:aliceblue;
+}
+#sports{
+background-color:#cef;
+}
+
+#hobby-wrapper {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.hobby {
+	padding: 10px;
+	width: 300px;
+	margin-bottom: 12px;
+}
+
+
+
