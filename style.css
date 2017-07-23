@@ -1,50 +1,54 @@
-body {
-  background-color: white;
-  padding: 30px;
-}
-
-h1, p,img
-{color:black;
-  text-align: left;
-}
-
-h4 {
-	margin-top: 0;
-}
-
-#aboutze 
-
-#profilepic { float: left;
-margin-right: 20px;
-}
-#whoami{
-background-color:whitesmoke
-}
-#hobbies{
-background-color:white;
-}
-#language{
-background-color:cornsilk;
-}
-
-#music{
-background-color:aliceblue;
-}
-#sports{
-background-color:#cef;
-}
-
-#hobby-wrapper {
+#flex-wrapper {
 	display: flex;
-	justify-content: space-between;
-	flex-wrap: wrap;
+	align-items: center;
+}
+.heading {
+	
+	font-weight: 300;
 }
 
-.hobby {
-	padding: 10px;
-	width: 300px;
-	margin-bottom: 12px;
+#profilepic{
+	margin-right: 10%;
+	width:250px;
+	//float:left;
 }
 
+body{
+	padding: 0 10%;
+	background-color: #ffefcc;
+}
+#divwords{
+	//float:right;
 
+}
+#skills{
+	
 
+	padding:10px;
+	width: 100%;
+}
+
+#med{
+	background-color: #99ddff;
+	margin:1%;
+	width:90%;
+	
+}
+
+#html{
+	background-color: #ffd480;
+	margin:1%;
+	width:60%;
+}
+
+#css{
+	background-color: palegreen;
+	margin:1%;
+	width:40%;
+}
+
+#js{
+	background-color: pink;
+	margin:1%;
+	width:20%;
+}
