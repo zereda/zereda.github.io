@@ -52,3 +52,9 @@ body{
 	margin:1%;
 	width:20%;
 }
+
+#language-button {
+	background-color: #5bd5e7;
+	padding: 4px;
+	text-decoration:none;
+}
