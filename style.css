@@ -50,29 +50,3 @@ body{
 	
 	font-weight: 300;
 }
-/* Skills section design*/
-
-#med{
-	background-color: #99ddff;
-	margin:1%;
-	width:10%;
-	
-}
-
-#html{
-	background-color: #ffd480;
-	margin:1%;
-	width:60%;
-}
-
-#css{
-	background-color: palegreen;
-	margin:1%;
-	width:40%;
-}
-
-#js{
-	background-color: pink;
-	margin:1%;
-	width:30%;
-}
